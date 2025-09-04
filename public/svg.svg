@@ -1,0 +1,11 @@
+<svg width="800" height="600.0000000000001" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <title>Layer 1</title>
+  <text stroke-dasharray="5,5" filter="url(#svg_2_blur)" fill="#a57bce" stroke-width="0" x="290.0069" y="289.52165" id="svg_2" font-size="24" font-family="'El Messiri'" text-anchor="start" xml:space="preserve" transform="matrix(8.74974 0 0 5.49538 -2381.16 -1308.81)" stroke="#000" font-weight="bold">Edtor</text>
+ </g>
+ <defs>
+  <filter id="svg_2_blur">
+   <feGaussianBlur stdDeviation="0" in="SourceGraphic"/>
+  </filter>
+ </defs>
+</svg>
